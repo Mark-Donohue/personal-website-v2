@@ -1,49 +1,52 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Minimal TypeScript Starter
-</h1>
+<a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank">
+<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" />
+</a>
 
-## 🚀 Quick start
+# Gatsby Starter Portfolio Minimal Theme
 
-1.  **Create a Gatsby site.**
+#### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.
 
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+Portfolio Minimal is a Gatsby Theme that let's you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
 
-    ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby -- -ts
-    ```
+Just clone this Gatsby Starter, add the content. And that's it!
 
-2.  **Start developing.**
+[Live Demo on Gatsby Cloud](https://gatsbystarterportfoliominimalt.gatsbyjs.io/) · [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
 
-    Navigate into your new site’s directory and start it up.
+---
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+## Installation
 
-3.  **Open the code and start customizing!**
+1. Install the Gatsby CLI
 
-    Your site is now running at http://localhost:8000!
+   ```sh
+   npm install -g gatsby-cli
+   ```
 
-    Edit `src/pages/index.tsx` to see your site update in real-time!
+2. Create a new Gatsby site with the Portfolio Minimal Starter.
 
-4.  **Learn more**
+   ```sh
+   gatsby new portfolio-minimal https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme
+   ```
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+3. Once installed, you can begin developing your site.
 
-## 🚀 Quick start (Netlify)
+   ```sh
+   cd portfolio-minimal
+   gatsby develop
+   ```
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
+4. By default, the Portfolio Minimal Starter has a `content` directory at the root of your Gatsby site. There, you can edit the theme settings as well as add content for your sections. To learn more about it, have a look at the [Readme of Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme).
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+---
+
+## Issues?
+
+If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
+
+Thanks a lot for using this starter! 💪
+
+---
+
+<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+Konstantin Münster – [konstantin.digital](https://konstantin.digital)
