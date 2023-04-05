@@ -1,6 +1,5 @@
 ---
 imageSrc: "../../images/Donohue-3454_Retouched_1x1.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
 Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
