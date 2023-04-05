@@ -14,12 +14,13 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Mark Donohue" },
+    "logo": { "text": " " },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Experience", "url": "/#github" },
+        { "label": "Skills", "url": "/#features" },
+        { "label": "Contact", "url": "/#features" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -31,7 +32,7 @@
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }
