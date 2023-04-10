@@ -13,7 +13,7 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="Gatsby Starter for Portfolio Minimal" />
-      <Page useSplashScreenAnimation>
+      <Page useSplashScreenAnimation={false}>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="details" heading="Details" />
